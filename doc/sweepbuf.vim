@@ -7,7 +7,7 @@ SYNOPSIS					*sweepbuf-synopsis*
 	:SweepBuffers
 
 	" to show status after sweeping, define a map like below
-	nmap <silent><Leader>sb :SweepBuffers|:buffers<CR>
+	nmap <silent><Leader>sb :SweepBuffers<CR>:buffers<CR>
 
 DESCRIPTION					*sweepbuf-description*
 
